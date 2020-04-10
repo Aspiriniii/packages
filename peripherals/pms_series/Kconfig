@@ -23,6 +23,8 @@ if PKG_USING_PMS_SERIES
             bool "PMS5003"
         config PMS_SERIES_USING_PMS5003S
             bool "PMS5003S"
+        config PMS_SERIES_USING_PMS5003T
+            bool "PMS5003T"
         config PMS_SERIES_USING_PMS5003ST
             bool "PMS5003ST"
         config PMS_SERIES_USING_PMS7003
